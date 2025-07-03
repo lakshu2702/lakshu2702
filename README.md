@@ -1,8 +1,11 @@
+# Hi there, I’m Lakshmi!
+
+---
+
 <table>
   <tr>
     <td width="60%" valign="top">
 
-# Hi there, I’m Lakshmi!
 
 I’m a passionate developer who loves creating beautiful, functional, and meaningful web applications. I’m always curious, always learning, and always building something new. Currently, I’m exploring the exciting world of stock trading applications while sharpening my development skills.
 
@@ -11,7 +14,7 @@ I believe creativity and code go hand in hand—whether it's building an app, de
    </td>
    <td align="center" valign="top">
 
-<img src="image.jpg" alt="image" width="250"/>
+<img src="image.jpg" alt="image" width="300"/>
 
    </td>
   </tr>
