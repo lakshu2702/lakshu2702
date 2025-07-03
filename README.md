@@ -4,12 +4,12 @@
 
 <table>
   <tr>
-    <td width="75%" valign="top" align="center">
+    <td width="75%" valign="top">
 I’m a developer who loves building beautiful and functional web applications. Curious by nature, I’m always learning, currently exploring stock trading apps while honing my skills. I believe creativity and code go hand in hand—when I’m not coding, you’ll find me designing, editing, or binge-watching shows.
    </td>
    <td align="center" valign="top">
 
-<img src="image.jpg" alt="image" width="200"/>
+<img src="image.jpg" alt="image" width="300"/>
 
    </td>
   </tr>
