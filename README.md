@@ -1,23 +1,32 @@
-# Hi there, I’m Lakshmi!
+<table>
+  <tr>
+    <td width="60%">
 
-<p align="right">
-  <img src="image.jpg" alt="image" width="300"/>
-</p>
+# Hi there, I’m Lakshmi!
 
 I’m a passionate developer who loves creating beautiful, functional, and meaningful web applications. I’m always curious, always learning, and always building something new. Currently, I’m exploring the exciting world of stock trading applications while sharpening my development skills.
 
-I believe creativity and code go hand in hand—whether it's building an app, designing a page, or crafting a story. Outside of tech, you'll often find me exploring design, editing, or binging my favorite shows.
+I believe creativity and code go hand in hand—whether it's building an app, designing a page, or crafting a story. Outside of tech, you'll often find me exploring design, editing, or binge-watching my favorite shows.
+
+   </td>
+   <td align="center">
+
+<img src="image.jpg" alt="image" width="250"/>
+
+   </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Building a **Stock Trading App**
 - Exploring **AI, Backend Development, Chatbots, and Interactive Web Experiences**
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 ### Programming Languages
 
@@ -49,7 +58,7 @@ I believe creativity and code go hand in hand—whether it's building an app, de
 
 ---
 
-## 🌟 Projects I’m Proud Of
+## Projects I’m Proud Of
 
 - **PMS-Tracker with Chatbot** (Productivity + AI)
 - **AI Tool Hub** (One-stop AI Solutions)
@@ -61,18 +70,18 @@ I believe creativity and code go hand in hand—whether it's building an app, de
 
 ---
 
-## 🌐 Let’s Connect
+## Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-n-ab6843219/)  
-📧 lakshmikumari8050@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-n-ab6843219/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lakshmikumari8050@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshu2702&show_icons=true&bg_color=DEG,e0c3fc,8ec5fc&title_color=6a3093&text_color=000000&icon_color=8e44ad&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu2702&layout=compact&bg_color=DEG,e0c3fc,8ec5fc&title_color=6a3093&text_color=000000&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshu2702&show_icons=true&bg_color=4B0082,8A2BE2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu2702&layout=compact&bg_color=4B0082,8A2BE2&title_color=ffffff&text_color=ffffff&hide_title=false" width="48%"/>
 </p>
 
 ---
