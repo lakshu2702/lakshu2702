@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
 
 # Hi there, I’m Lakshmi!
 
@@ -9,7 +9,7 @@ I’m a passionate developer who loves creating beautiful, functional, and meani
 I believe creativity and code go hand in hand—whether it's building an app, designing a page, or crafting a story. Outside of tech, you'll often find me exploring design, editing, or binge-watching my favorite shows.
 
    </td>
-   <td align="center">
+   <td align="center" valign="top">
 
 <img src="image.jpg" alt="image" width="250"/>
 
@@ -80,8 +80,8 @@ I believe creativity and code go hand in hand—whether it's building an app, de
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshu2702&show_icons=true&bg_color=4B0082,8A2BE2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu2702&layout=compact&bg_color=4B0082,8A2BE2&title_color=ffffff&text_color=ffffff&hide_title=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshu2702&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu2702&layout=compact&theme=dark" width="48%"/>
 </p>
 
 ---
