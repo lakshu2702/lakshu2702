@@ -1,6 +1,6 @@
-# Hi there, I’m Lakshmi! 💖
+# Hiiii there, I’m Lakshmi!
 
-<img src="image" alt="image" width="400"/>
+<img src="image.jpg" alt="image" width="400"/>
 
 ---
 
