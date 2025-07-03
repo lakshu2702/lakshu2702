@@ -1,11 +1,12 @@
+# Hi there, I’m Lakshmi!
+
+---
+
 <div align="center">
 
 <table>
   <tr>
     <td width="60%" align="left" valign="top">
-
-<h1>Hi there, I’m Lakshmi!</h1>
-
 <p>I’m a developer who loves building beautiful and functional web applications. Curious by nature, I’m always learning, currently exploring stock trading apps while honing my skills. I believe creativity and code go hand in hand—when I’m not coding, you’ll find me designing, editing, or binge-watching shows.</p>
 
 </td>
