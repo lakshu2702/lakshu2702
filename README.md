@@ -5,12 +5,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-
-
-I’m a passionate developer who loves creating beautiful, functional, and meaningful web applications. I’m always curious, always learning, and always building something new. Currently, I’m exploring the exciting world of stock trading applications while sharpening my development skills.
-
-I believe creativity and code go hand in hand—whether it's building an app, designing a page, or crafting a story. Outside of tech, you'll often find me exploring design, editing, or binge-watching my favorite shows.
-
+I’m a developer who loves building beautiful and functional web applications. Curious by nature, I’m always learning, currently exploring stock trading apps while honing my skills. I believe creativity and code go hand in hand—when I’m not coding, you’ll find me designing, editing, or binge-watching shows.
    </td>
    <td align="center" valign="top">
 
