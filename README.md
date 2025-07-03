@@ -1,18 +1,22 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center">
 
-<div style="width: 60%;">
+<table>
+  <tr>
+    <td width="60%" align="left" valign="top">
 
-# Hi there, I’m Lakshmi!
+<h1>Hi there, I’m Lakshmi!</h1>
 
-I’m a developer who loves building beautiful and functional web applications. Curious by nature, I’m always learning, currently exploring stock trading apps while honing my skills. I believe creativity and code go hand in hand—when I’m not coding, you’ll find me designing, editing, or binge-watching shows.
+<p>I’m a developer who loves building beautiful and functional web applications. Curious by nature, I’m always learning, currently exploring stock trading apps while honing my skills. I believe creativity and code go hand in hand—when I’m not coding, you’ll find me designing, editing, or binge-watching shows.</p>
 
-</div>
+</td>
 
-<div>
+<td width="40%" align="center" valign="top">
 
-<img src="image.jpg" alt="image" width="250"/>
+<img src="image.jpg" alt="Lakshmi's Image" width="250"/>
 
-</div>
+</td>
+  </tr>
+</table>
 
 </div>
 
